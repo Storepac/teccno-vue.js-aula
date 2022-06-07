@@ -1,2 +1,9 @@
 # teccno-vue.js-aula
-Projeto feito com base no que estou aprendendo. (Vue.js)
+- Projeto elaborado com base no que estou aprendendo nas aulas de Vue.js)
+
+Projeto ensina a puxar uma API;
+Controle de estoque;
+Adicionar e remover itens;
+Deixar o site dinâmico;
+HTML e CSS básico.
+
